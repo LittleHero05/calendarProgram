@@ -1,0 +1,38 @@
+.body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.header {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(1, 1, 71);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: aliceblue;
+    font-family: Helvetica;
+}
+
+.form {
+    display: block;
+    text-align: center;
+    margin: 0px 20px 5px 14px;
+}
+
+.sub-head {
+    text-align: center;
+}
+
+.emailInput {
+    width: 100%;
+    height: 100px;
+}
+
+.dateCon {
+    display: inline;
+}
